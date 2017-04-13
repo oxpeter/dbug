@@ -57,7 +57,7 @@ _if you want to be lazy, you can skip this exercise by just clicking [here](http
 _NB: This section can be skipped if you wish, and just use the GSE19143.txt file provided.
 This section simply details how this file and its values were obtained._
 
-18) go to the NCBI [GEO database](ncbi.nlm.nih.gov/gds) (ncbi.nlm.nih.gov/gds)
+18) go to the NCBI [GEO database](https://www.ncbi.nlm.nih.gov/gds) (ncbi.nlm.nih.gov/gds)
 19) search for GSE19143
 20) in the search results, find GSE19143, and select "Analyze with GEO2R"
 21) select "define groups" near the top of the screen
